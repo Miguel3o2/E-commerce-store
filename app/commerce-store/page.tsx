@@ -12,7 +12,7 @@ const products = [
     name: "Premium Wireless Headphones",
     price: 299.99,
     rating: 4.8,
-    image: "/images/headset.jpeg",
+    image: "/headset.jpeg",
     category: "Electronics",
     description: "High-fidelity audio with noise cancellation"
   },
@@ -21,7 +21,7 @@ const products = [
     name: "Smart Fitness Watch",
     price: 199.99,
     rating: 4.6,
-    image: "/images/watch.jpeg",
+    image: "/watch.jpeg",
     category: "Wearables",
     description: "Track your health with precision"
   },
@@ -30,7 +30,7 @@ const products = [
     name: "Ergonomic Office Chair",
     price: 499.99,
     rating: 4.9,
-    image: "/images/chair.jpeg",
+    image: "/chair.jpeg",
     category: "Furniture",
     description: "Ultimate comfort for long work hours"
   },
@@ -39,7 +39,7 @@ const products = [
     name: "Gaming Headset",
     price: 299.99,
     rating: 4.8,
-    image: "/images/headset2.jpeg",
+    image: "/headset2.jpeg",
     category: "Electronics",
     description: "High-fidelity audio with noise cancellation"
   },
@@ -48,7 +48,7 @@ const products = [
     name: "Refined Smartwatch",
     price: 199.99,
     rating: 4.6,
-    image: "/images/watch2.jpeg",
+    image: "/watch2.jpeg",
     category: "Wearables",
     description: "Track your health with precision"
   },
@@ -57,7 +57,7 @@ const products = [
     name: "Automatic Coffee Maker",
     price: 499.99,
     rating: 4.9,
-    image: "/images/coffee.jpeg",
+    image: "/coffee.jpeg",
     category: "Electronics",
     description: "Ultimate comfort for long work hours"
   }
